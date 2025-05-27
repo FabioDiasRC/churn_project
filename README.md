@@ -1,10 +1,10 @@
 # Previsão de Churn com redes neurais
 * Esse projeto requer python 3.12+
 
-Nesse projeto efetuei redes neurais para a previsao de churn (desistencia e saída de clientes de uma determinada empresa). A análise de churn é importante pois consegue prever a saída de clientes da empresa e quais fatores, dentro dos conjuntos de dados disponivesi, influenciam na saida desses clientes e como podemos predizer o comportamento futuro dos dados.
+Nesse projeto efetuei redes neurais para a previsao de churn (desistencia e saída de clientes de uma determinada empresa). A análise de churn é importante pois consegue prever a saída de clientes da empresa e quais fatores, dentro dos conjuntos de dados disponiveis, influenciam na saida desses clientes e como podemos predizer o comportamento futuro dos dados.
 
 ## Objetivo
-O objetivo do projeto é o desenvovimento de um modelo de predição de Churn baseado nos dados encontrado no Kaggle, [nesse link aqui](https://www.kaggle.com/datasets/mervetorkan/churndataset). O modelo basea-se nas informações dos clientes, envolvendo dados de compra, financeiros e geograficos, buscando uma saida binaria de churn ou nao desse cliente.
+O objetivo do projeto é o desenvolvimento de um modelo de predição de Churn baseado nos dados encontrado no Kaggle, [nesse link aqui](https://www.kaggle.com/datasets/mervetorkan/churndataset). O modelo basea-se nas informações dos clientes, envolvendo dados de compra, financeiros e geograficos, buscando uma saida binaria da possibilidade de churn ou nao do cliente em analise.
 
 ### Sobre o projeto
 Inicialmente começo com a importação dos dados, em sequencia a análise dos dados, a limpeza é bem superficial, pois os dados vindos do kaggle ja sao bem trabalhados e trazem uma quantidade boa e confiavel de dados para efetuar o treinamento do modelo.
